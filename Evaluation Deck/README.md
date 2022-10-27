@@ -18,7 +18,7 @@ Mình test thử :
 ```
 thì nhận được response {"message":3}.
 
-Như vậy: mình có thể command injection nhưng chỉ có thể thấy được out của phép tính đầu, `current_health` và `attack_power` bị ép kiểu sang int nên ta chỉ có thể tận dụng `operator`
+Như vậy: mình có thể chèn code ptyhon vào nhưng chỉ có thể thấy được output của phép tính đầu, `current_health` và `attack_power` bị ép kiểu sang int nên ta chỉ có thể tận dụng `operator`
 
 Ta có thể chạy reverse shell với sh shell như bài [Spookifier](https://github.com/L4P1Nz/Hack-The-Boo/tree/main/Spookifier)
 

